@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122804808998",
+    "project_id": "pongmultiplayer-48a07",
+    "storage_bucket": "pongmultiplayer-48a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122804808998:android:01bf2ddf1eafa03ea565e7",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122804808998-ctuk7o5c2tls13plfaembjdmme35cm3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzkFoE_ZuSP0krXCsd6XGZlJkKRUU5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122804808998-ctuk7o5c2tls13plfaembjdmme35cm3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
